@@ -231,28 +231,6 @@ Course Validation
 
 ---
 
-## Future Improvements
-
-Logging
-
-JavaDocs
-
-Servlet + JSP
-
-HTML
-
-CSS
-
-Bootstrap
-
-Spring Boot
-
-REST API
-
-Hibernate
-
----
-
 ## Resume Description
 
 Student Management System developed using Java, JDBC and SQL Server following MVC and Layered Architecture. Implemented CRUD operations, DAO Pattern, reusable helper methods, custom exception handling, input validation, sorting, searching and modular architecture.
