@@ -290,6 +290,37 @@ Highlights
 ✔ Console Based Project
 
 -----
+## Folder Structure
+
+![Folder](images/folderStructure.png)
+
+## Home Screen
+
+![Home](images/menu.png)
+
+## Add Student
+
+![Add](images/add.png)
+
+## Display Students
+
+![Display](images/display.png)
+
+## Delete Student
+
+![Delete](images/delete.png)
+
+## Search Student
+
+![Search](images/search.png)
+
+## Sort Students
+
+![Sort](images/sort.png)
+
+## Database
+
+![Database](images/database.png)
 
 ## Author
 
