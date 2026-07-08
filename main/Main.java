@@ -22,6 +22,7 @@ public class Main {
             System.out.println("9. Sort By Name");
             System.out.println("10. Sort By Age");
             System.out.println("11. Exit");
+            System.out.println();
             System.out.print("Enter Choice: ");
             int choice = sc.nextInt();
             sc.nextLine();
