@@ -11,11 +11,9 @@ public class InputHelper {
             try {
                 int id = sc.nextInt();
                 sc.nextLine();
-                if (id <= 0) {
-                    System.out.println("Id must be greater than 0.");
-                    continue;
-                }
-                return id;
+                if (!StudentValidator.isValidId(id)) 
+                System.out.println("Id must be greater than 0.");
+                else return id;
             } catch (Exception e) {
                 System.out.println("Invalid Id.");
                 sc.nextLine();
